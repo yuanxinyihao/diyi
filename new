@@ -1,0 +1,36 @@
+  body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+	 <div style="
+   background-color:pink;
+   text-align:center;
+   padding:15px;
+  ">
+  <img scr='https://i0.imgs.ovh/2024/01/25/xtvVU.png' alt="lingya之旅"
+  width="80px"height="80px"
+   </div>
+   <div style="
+   max-width:400px;
+   margin:30px auto;
+   padding:15px;
+   background-color:yellow  
+   ">
+   <p>喜欢看电影，看动漫，看韩剧。
+第一次制作网页</p>
+   <p>普普通通的一天，继续等老弟放学回家去买零食</p>
+   </div>
+   <div style="
+  background-color:pink;
+  text-align:center;
+  padding:40px;
+  font-size:12px; 
+   
+   ">
+<p>我的网站</p>
+<a href="https://imgse.com/i/pFm03h4">友情链接</a>
+   </div>
+<h1>hhh新页面，张悦宝气</h1>
+  </body>
